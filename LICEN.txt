@@ -1,0 +1,4 @@
+git is 
+striuted under the GPL.
+git has a mutable index
+功能开发完毕
