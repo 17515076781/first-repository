@@ -1,0 +1,3 @@
+git is 
+striuted under the GPL.
+git has a mutable index
